@@ -1,6 +1,8 @@
-package com.greenblat.planner.todo;
+package com.greenblat.planner.todo.controllers;
 
 import com.greenblat.planner.entity.Task;
+import com.greenblat.planner.todo.search.TaskSearchValues;
+import com.greenblat.planner.todo.services.TaskService;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

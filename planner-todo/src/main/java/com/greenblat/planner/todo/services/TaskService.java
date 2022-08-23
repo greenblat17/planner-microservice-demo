@@ -1,6 +1,7 @@
-package com.greenblat.planner.todo;
+package com.greenblat.planner.todo.services;
 
 import com.greenblat.planner.entity.Task;
+import com.greenblat.planner.todo.repositories.TaskRepository;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

@@ -1,4 +1,4 @@
-package com.greenblat.planner.todo;
+package com.greenblat.planner.todo.search;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.greenblat.planner.todo;
+package com.greenblat.planner.todo.repositories;
 
 import com.greenblat.planner.entity.Task;
 import org.springframework.data.domain.Page;
